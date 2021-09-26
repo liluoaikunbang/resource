@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>资源站</title>
+  
+  <subtitle>资源站</subtitle>
+  <link href="https://yourname.github.io/resource/atom.xml" rel="self"/>
+  
+  <link href="https://yourname.github.io/resource/"/>
+  <updated>2021-09-26T07:38:21.295Z</updated>
+  <id>https://yourname.github.io/resource/</id>
+  
+  <author>
+    <name>璃落</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mode</title>
+    <link href="https://yourname.github.io/resource/post/mode.html"/>
+    <id>https://yourname.github.io/resource/post/mode.html</id>
+    <published>2021-09-26T07:38:21.000Z</published>
+    <updated>2021-09-26T07:38:21.295Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc --><!-- tocstop -->]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!-- toc --&gt;
+
+
+
+&lt;!-- tocstop --&gt;
+
+
+
+</summary>
+      
+    
+    
+    
+    <category term="设定与灵感" scheme="https://yourname.github.io/resource/categories/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E7%81%B5%E6%84%9F/"/>
+    
+    
+  </entry>
+  
+</feed>
