@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yourname.github.io/resource/post/mode.html</loc>
+    <loc>https://yourname.github.io/resource/link_resources/index.html</loc>
+    
+    <lastmod>2021-09-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/resource/post/zhu-yi-shi-xiang.html</loc>
     
     <lastmod>2021-09-26</lastmod>
     
@@ -25,12 +32,5 @@
 
   
 
-  
-  <url>
-    <loc>https://yourname.github.io/resource/categories/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E7%81%B5%E6%84%9F/</loc>
-    <lastmod>2021-09-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 </urlset>
